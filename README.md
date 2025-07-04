@@ -28,7 +28,7 @@ In the output, you'll find options to open the app in a
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go)
 
-![sign-in](https://github.com/zelgith/expense-tracker-mobile/images/sign-in.png)
-![sign-up](https://github.com/zelgith/expense-tracker-mobile/images/sign-up.png)
-![main](https://github.com/zelgith/expense-tracker-mobile/images/main.png)
-![add](https://github.com/zelgith/expense-tracker-mobile/images/add.png)
+[![sign-in](https://github.com/zelgith/expense-tracker-mobile/images/sign-in.png)](https://github.com/Zelgith/expense-tracker-mobile/blob/main/images/sign-in.png)
+[![sign-up](https://github.com/zelgith/expense-tracker-mobile/images/sign-up.png)](https://github.com/Zelgith/expense-tracker-mobile/blob/main/images/sign-up.png)
+[![main](https://github.com/zelgith/expense-tracker-mobile/images/main.png)](https://github.com/Zelgith/expense-tracker-mobile/blob/main/images/main.png)
+[![add](https://github.com/zelgith/expense-tracker-mobile/images/add.png)](https://github.com/Zelgith/expense-tracker-mobile/blob/main/images/add.png)
